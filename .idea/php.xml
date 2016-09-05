@@ -5,4 +5,10 @@
       <server host="127.0.0.1" id="ed772e5c-d743-479b-a84d-9e2426745e22" name="default" port="8080" use_path_mappings="true" />
     </servers>
   </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings />
+    </phpunit_settings>
+  </component>
 </project>
